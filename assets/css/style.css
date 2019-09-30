@@ -1,0 +1,86 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+    background-image: url("hotel-wallpaper-black.png");
+  }
+
+  header {
+    padding: 20px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: #4aaaa5;
+  }
+
+  #box-1{
+    padding: 20px;
+    margin-top: 200px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 200px;
+    background-color: white;
+    border: black;
+    border-width: 3px;
+  }
+
+  h1 {
+    font-size: 20px;
+    text-align: left;
+    color: white;
+  }
+
+  #link {
+    font-size: 20px;
+    text-align: right;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  h2 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+  }
+
+  textarea {
+    width: 100%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    resize: none;
+  }
+
+  body {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: silver;
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: scroll;
+  }
+
+  #bio-pic {
+    float: left;
+  }
+
+  #outlink {
+    width: 25%;
+    height: 15%;
+    padding: 12px 12px;
+    background-color: #4aaaa5;
+    color: white;
+  }
+
+  #footer {
+    padding: 20px;
+    clear: both;
+    background-color: black;
+    color: white;
+  }
